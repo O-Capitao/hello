@@ -3,3 +3,6 @@ Tjis is a new file for my git experiment
 The contents are
 Once again
 Irrelevant
+
+------------
+Estas linhas foram depois do pancracio entrar. Escritas pelo capitaoF
